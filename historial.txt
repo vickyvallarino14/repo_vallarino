@@ -1,0 +1,20 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  man ls
+    5  man man
+    6  pwd
+    7  whoami
+    8  echo "te amu"
+    9  ls
+   10  cat readme
+   11  ls
+   12  cat README 
+   13  cd repogit/
+   14  ls
+   15  git clone https://github.com/vickyvallarino14/repo_vallarino.git
+   16  ls
+   17  cd repo_vallarino/
+   18  ls
+   19  history
+   20  history > historial.txt
